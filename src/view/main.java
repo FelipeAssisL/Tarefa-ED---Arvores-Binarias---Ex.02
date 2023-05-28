@@ -1,5 +1,4 @@
 package view;
-
 import br.edu.fateczl.arvoreint.Arvore;
 
 public class main {
